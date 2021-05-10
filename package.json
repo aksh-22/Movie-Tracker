@@ -1,5 +1,5 @@
 {
-  "name": "react-practice",
+  "name": "movie-tracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,8 +19,8 @@
   },
   "eslintConfig": {
     "extends": [
-      "react-app",
-      "react-app/jest"
+      "movie-tracker",
+      "movie-tracker/jest"
     ]
   },
   "browserslist": {
