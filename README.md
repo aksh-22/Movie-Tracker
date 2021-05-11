@@ -11,3 +11,9 @@
 3) npm install
 4) npm start
 ````
+
+### Things i am going to add
+
+````
+1) Edit Movie data e.g. - Title , rating
+````
